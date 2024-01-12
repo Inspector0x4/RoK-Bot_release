@@ -1,6 +1,6 @@
-# Rise of Kingdoms Farming Bot 🌾
+# Farming Bot 🌾
 
-Welcome to the GitHub page for the **Rise of Kingdoms Farming Bot**! This bot is designed to automate the resource farming process in the game Rise of Kingdoms.
+Welcome to the GitHub page for the **Farming Bot**! This bot is designed to automate the resource farming process in the game.
 
 ## Table of Contents
 
@@ -28,4 +28,4 @@ To use the bot, please read README.txt
 
 
 
-**Note**: This bot is intended for educational and research purposes only. We are not responsible for any misuse of this bot.
+**Note**: This bot is intended for educational and research purposes only. We are not responsible for any misuse of this bot. Please respect the game.
