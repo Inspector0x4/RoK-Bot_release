@@ -28,4 +28,4 @@ To use the bot, please read README.txt
 
 
 
-**Note**: This bot is intended for educational and research purposes only. We are not responsible for any misuse of this bot. Please respect the game.
+**Note**: This bot is intended for educational and research purposes only. We are not responsible for any misuse of this bot. Please respect the game and don't use this bot.
