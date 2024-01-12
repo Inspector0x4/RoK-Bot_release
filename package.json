@@ -1,0 +1,17 @@
+{
+  "name": "bot-v0.1",
+  "version": "0.1.0",
+  "description": "A usefull farming bot for RoK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Inspector0x4 (security)",
+  "license": "ISC",
+  "dependencies": {
+    "@nut-tree/nut-js": "^3.1.2",
+    "@nut-tree/template-matcher": "^2.0.1",
+    "cryptolens": "^1.0.1-4.2",
+    "readline-sync": "^1.4.10"
+  }
+}
